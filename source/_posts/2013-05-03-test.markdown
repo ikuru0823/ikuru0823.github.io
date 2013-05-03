@@ -18,14 +18,16 @@ __太字__
 * リスト
 * リスト
 
-`` rake preview `` でプレビューを見ることができる。
+`` rake preview ``  によってプレビューを見ることができる。
 
-```` ruby
-      class Foo
-        def bar
-        end
-      end
-````
+{% codeblock test.rb lang:ruby http://octopress.org/docs/blogging/code/ %}
+class Foo
+  def bar(hoge)
+    @hoge = hoge
+    # コメントアウト
+  end
+end
+{% endcodeblock %}
 
 {% img right /images/pic.jpeg 100 200 %}
 
