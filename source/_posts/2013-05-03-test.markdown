@@ -18,6 +18,17 @@ __太字__
 * リスト
 * リスト
 
+`` rake preview `` でプレビューを見ることができる。
+
+```` ruby
+      class Foo
+        def bar
+        end
+      end
+````
+
+{% img right /images/pic.jpeg 100 200 %}
+
 ---------------------
 参考にさせて頂いたサイト
 
