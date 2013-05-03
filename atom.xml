@@ -4,7 +4,7 @@
   <title><![CDATA[BLOG]]></title>
   <link href="http://ikuru0823.github.io/atom.xml" rel="self"/>
   <link href="http://ikuru0823.github.io/"/>
-  <updated>2013-05-03T22:45:06+09:00</updated>
+  <updated>2013-05-03T22:46:41+09:00</updated>
   <id>http://ikuru0823.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -59,6 +59,8 @@
 <p><a href="http://www.glidenote.com/archives/1517">GithubとOctopressでモダンな技術系ブログを作ってみる</a></p>
 
 <p><a href="http://kojika17.com/2013/01/starting-markdown.html">文章作成やメモ書きにも便利、Markdown記法</a></p>
+
+<p><a href="https://github.com/rastersize/BlogTheme">rastersize / BlogTheme</a></p>
 ]]></content>
   </entry>
   
