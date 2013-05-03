@@ -1,0 +1,27 @@
+---
+layout: post
+title: "ブログテスト"
+date: 2013-05-03 20:47
+comments: true
+categories: 
+---
+
+# 見出し
+
+## 見出し
+
+### 見出し
+
++リスト
++リスト
++リスト
+
+***
+
+
+参考にさせて頂いたサイト
+
+[GithubとOctopressでモダンな技術系ブログを作ってみる](http://www.glidenote.com/archives/1517)
+
+[文章作成やメモ書きにも便利、Markdown記法](http://kojika17.com/2013/01/starting-markdown.html)
+
